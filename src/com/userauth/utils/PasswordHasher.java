@@ -1,5 +1,5 @@
 package com.userauth.utils;
 
-public class ValidationUtils {
+public class PasswordHasher {
   
 }

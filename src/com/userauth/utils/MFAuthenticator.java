@@ -1,5 +1,5 @@
 package com.userauth.utils;
 
-public class SecurityUtils {
+public class MFAuthenticator {
   
 }
